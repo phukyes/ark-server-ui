@@ -33,7 +33,7 @@
                 "content": [
                     {
                         "title": "Server Rules",
-                        "text": "<TextStyle.Red>1.</> Don't be a faggot.\n\n<TextStyle.Orange>Breaking this rule may result in a warning or ban.</>"
+                        "text": "<TextStyle.Red>1.</> Don't be a faggot.\n\n<TextStyle.Red>2.</> Respect the building space and inventory of others.\n\n<TextStyle.Red>3.</> Bishop's inventory can be accessed at any time by anyone.\n\n<TextStyle.Orange>Breaking these rules may result in a warning or ban.</>"
                     }
                 ]
             },
@@ -59,7 +59,7 @@
                 "content": [
                     {
                         "title": "Installed Mods",
-                        "text": "<TextStyle.LightBlue>Mystic Plus</>\n\n<TextStyle.LightBlue>Omega Dino Storage V2</>\n\n<TextStyle.LightBlue>Super Spyglass Plus</>\n\n<TextStyle.LightBlue>Utilities Plus</>\n\n<TextStyle.LightBlue>Automated Ark</>\n\n<TextStyle.LightBlue>TG Stacking Mod 1000-90</>\n\n<TextStyle.LightBlue>Creatures & Myths</>\n\n<TextStyle.LightBlue>Ark Primal Chaos</>\n\n<TextStyle.LightBlue>WBUI2</>"
+                        "text": "<TextStyle.LightBlue>Mystic Plus</>\n\n<TextStyle.LightBlue>Omega Dino Storage V2</>\n\n<TextStyle.LightBlue>Super Spyglass Plus</>\n\n<TextStyle.LightBlue>Utilities Plus</>\n\n<TextStyle.LightBlue>Automated Ark</>\n\n<TextStyle.LightBlue>TG Stacking Mod 1000-90</>\n\n<TextStyle.LightBlue>Creatures & Myths</>\n\n<TextStyle.LightBlue>Shiny! Dinos Ascended</>\n\n<TextStyle.LightBlue>Super Structures</>\n\n<TextStyle.LightBlue>QoL+</>\n\n<TextStyle.LightBlue>Der Dino Finder</>\n\n<TextStyle.LightBlue>TeleportersASA</>\n\n<TextStyle.LightBlue>WBUI2</>"
                     }
                 ]
             }
