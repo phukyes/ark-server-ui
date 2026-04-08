@@ -11,14 +11,14 @@
             "iconposition": 3,
             "icontextcolor": 0,
             "openonstart": true,
-            "openonstartonlynewplayers": true,
+            "openonstartonlynewplayers": false,
             "updateinterval": 12
         },
         "tabs": [
             {
                 "layout": 1,
                 "buttontext": "Welcome",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "https://i.imgur.com/oWckCdV.png",
                 "content": [
                     {
                         "title": "Welcome to Tender's Server!",
@@ -29,7 +29,7 @@
             {
                 "layout": 1,
                 "buttontext": "Rules",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "https://i.imgur.com/oWckCdV.png",
                 "content": [
                     {
                         "title": "Server Rules",
@@ -40,7 +40,7 @@
             {
                 "layout": 2,
                 "buttontext": "Rates",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "https://i.imgur.com/oWckCdV.png",
                 "content": [
                     {
                         "title": "General Rates",
@@ -51,11 +51,11 @@
                         "text": "<TextStyle.LightBlue>Mating Interval:</> <TextStyle.Green>0.1x</>\n\n<TextStyle.LightBlue>Egg Hatch Speed:</> <TextStyle.Green>50x</>\n\n<TextStyle.LightBlue>Baby Mature Speed:</> <TextStyle.Green>50x</>\n\n<TextStyle.LightBlue>Cuddle Interval:</> <TextStyle.Green>0.05x</>\n\n<TextStyle.LightBlue>Imprint Amount:</> <TextStyle.Green>5x</>\n\n<TextStyle.LightBlue>Baby Food Consumption:</> <TextStyle.Green>3x</>"
                     }
                 ]
-            }
+            },
             {
                 "layout": 1,
                 "buttontext": "Mods",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "https://i.imgur.com/oWckCdV.png",
                 "content": [
                     {
                         "title": "Installed Mods",
