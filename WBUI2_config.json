@@ -1,0 +1,59 @@
+{
+    "WBUI2":
+    {
+        "settings":
+        {
+            "openbutton": 0,
+            "hideicon": false,
+            "hideiconafter": 60,
+            "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+            "disableicontext": false,
+            "iconposition": 3,
+            "icontextcolor": 0,
+            "openonstart": true,
+            "openonstartonlynewplayers": true,
+            "updateinterval": 12
+        },
+        "tabs": [
+            {
+                "layout": 1,
+                "buttontext": "Welcome",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Welcome to Tender's Server!",
+                        "text": "Welcome to <TextStyle.LightBlue>Tender's super nice dedicated server</>!\n\nWe're currently running the <TextStyle.Green>Extinction</> map.\n\nPress <TextStyle.Yellow>F1</> at any time to open this menu.\n\nCheck out the <TextStyle.Orange>Rules</> and <TextStyle.LightBlue>Rates</> tabs for more info.\n\nEnjoy your stay and have fun!"
+                    }
+                ]
+            },
+            {
+                "layout": 1,
+                "buttontext": "Rules",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Server Rules",
+                        "text": "<TextStyle.Red>1.</> Don't be a faggot.\n\n<TextStyle.Orange>Breaking this rule may result in a warning or ban.</>"
+                    }
+                ]
+            },
+            {
+                "layout": 2,
+                "buttontext": "Rates",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "General Rates",
+                        "text": "<TextStyle.LightBlue>XP:</> <TextStyle.Green>3x</>\n\n<TextStyle.LightBlue>Harvesting:</> <TextStyle.Green>5x</>\n\n<TextStyle.LightBlue>Taming:</> <TextStyle.Green>10x</>\n\n<TextStyle.LightBlue>Difficulty:</> <TextStyle.Green>5.0</> (Max Wild Lvl 150)\n\n<TextStyle.LightBlue>Max Players:</> <TextStyle.Green>70</>\n\n<TextStyle.LightBlue>Max Tribe Size:</> <TextStyle.Green>10</>\n\n<TextStyle.LightBlue>Max Tamed Dinos:</> <TextStyle.Green>5000</>"
+                    },
+                    {
+                        "title": "Breeding Rates",
+                        "text": "<TextStyle.LightBlue>Mating Interval:</> <TextStyle.Green>0.1x</>\n\n<TextStyle.LightBlue>Egg Hatch Speed:</> <TextStyle.Green>50x</>\n\n<TextStyle.LightBlue>Baby Mature Speed:</> <TextStyle.Green>50x</>\n\n<TextStyle.LightBlue>Cuddle Interval:</> <TextStyle.Green>0.05x</>\n\n<TextStyle.LightBlue>Imprint Amount:</> <TextStyle.Green>5x</>\n\n<TextStyle.LightBlue>Baby Food Consumption:</> <TextStyle.Green>3x</>"
+                    }
+                ]
+            }
+        ],
+        "links": [],
+        "version": 2
+    }
+}
