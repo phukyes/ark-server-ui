@@ -52,6 +52,17 @@
                     }
                 ]
             }
+            {
+                "layout": 1,
+                "buttontext": "Mods",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Installed Mods",
+                        "text": "<TextStyle.LightBlue>Mystic Plus</>\n\n<TextStyle.LightBlue>Omega Dino Storage V2</>\n\n<TextStyle.LightBlue>Super Spyglass Plus</>\n\n<TextStyle.LightBlue>Utilities Plus</>\n\n<TextStyle.LightBlue>Automated Ark</>\n\n<TextStyle.LightBlue>TG Stacking Mod 1000-90</>\n\n<TextStyle.LightBlue>Creatures & Myths</>\n\n<TextStyle.LightBlue>Ark Primal Chaos</>\n\n<TextStyle.LightBlue>WBUI2</>"
+                    }
+                ]
+            }
         ],
         "links": [],
         "version": 2
