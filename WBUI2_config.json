@@ -6,7 +6,7 @@
             "openbutton": 0,
             "hideicon": false,
             "hideiconafter": 60,
-            "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+            "iconurl": "https://i.imgur.com/qlhZzHo.png",
             "disableicontext": false,
             "iconposition": 3,
             "icontextcolor": 0,
@@ -18,7 +18,7 @@
             {
                 "layout": 1,
                 "buttontext": "Welcome",
-                "imageurl": "https://i.imgur.com/oWckCdV.png",
+                "imageurl": "https://i.imgur.com/A1kH55Z.png",
                 "content": [
                     {
                         "title": "Welcome to Tender's Server!",
@@ -29,7 +29,7 @@
             {
                 "layout": 1,
                 "buttontext": "Rules",
-                "imageurl": "https://i.imgur.com/oWckCdV.png",
+                "imageurl": "https://i.imgur.com/azykmwl.png",
                 "content": [
                     {
                         "title": "Server Rules",
@@ -40,7 +40,7 @@
             {
                 "layout": 2,
                 "buttontext": "Rates",
-                "imageurl": "https://i.imgur.com/oWckCdV.png",
+                "imageurl": "https://i.imgur.com/quUrpk9.png",
                 "content": [
                     {
                         "title": "General Rates",
@@ -55,7 +55,7 @@
             {
                 "layout": 1,
                 "buttontext": "Mods",
-                "imageurl": "https://i.imgur.com/oWckCdV.png",
+                "imageurl": "https://i.imgur.com/hw7oLVK.png",
                 "content": [
                     {
                         "title": "Installed Mods",
